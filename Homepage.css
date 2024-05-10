@@ -58,7 +58,6 @@ body> h1{
 }
 .para3 > img{
     position: relative;
-    margin-left: 10%;
     margin-top: 10%;
     height: 60vh;
     width: auto;
@@ -93,7 +92,7 @@ body> h1{
 }
 .para2 > p{
     flex-direction: row;
-    margin-left: 20%;
+    margin-left: 10%;
     margin-top: 18%;
     
 
