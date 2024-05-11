@@ -87,7 +87,8 @@ body> h1{
 }
 .para3 > p{
     flex-direction: row;
-    margin-top: 18%;
+    margin-top: 25%;
+    font-size: 120%;
 
 }
 .para2 > p{
